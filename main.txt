@@ -1,3 +1,8 @@
 <간이 홈페이지 - main branch>
 1. 프로젝트 패키지 매니저 및 기술 스택 채택
 2. main 브랜치에 프로젝트 기본 세팅 -> 채택한 기술 스택 설치 및 적용 테스트
+
+<이지은>
+1. git switch -c feature/footer
+2. git branch : 만든 깃 확인
+3. git push origin feature/footer : 깃 브랜치로 푸쉬하기!
